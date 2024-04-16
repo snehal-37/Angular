@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "3709",
+      "firstname": "Radha",
+      "lastname": "Sane",
+      "email": "abc@gmail.com",
+      "mobileNumber": "1213231311",
+      "age": 29,
+      "state": "punjab",
+      "country": "india",
+      "address": "home",
+      "tag": "Cricket",
+      "check": true,
+      "timestamp": "2024-04-16T08:21:25.730Z"
+    },
+    {
+      "id": "5a62",
+      "firstname": "Sudha",
+      "lastname": "Kadam",
+      "email": "abc@gmail.com",
+      "mobileNumber": "8902328929",
+      "age": 40,
+      "state": "punjab",
+      "country": "india",
+      "address": "company",
+      "tag": "Cricket",
+      "check": true,
+      "timestamp": "2024-04-16T08:35:53.552Z"
+    }
+  ]
+}
