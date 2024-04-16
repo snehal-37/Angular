@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/demo",
+    "/demo/edituser",
+    "/demo/home"
+  ]
+}
